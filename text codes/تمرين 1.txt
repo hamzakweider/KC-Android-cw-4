@@ -1,0 +1,45 @@
+public static void main(String[] args) {
+    System.out.println(totalGrade(7, 5));
+	    
+	      temperature(8); 
+	      
+	      loop (0);
+	        
+	}
+	            
+	        public static int totalGrade(int num1, int num2){
+    
+    
+            return num1+ num2;
+	        }
+
+
+    
+public static void temperature(int num3){
+    
+            if (num3 >= 23)
+        
+                System.out.println("hot");
+else if (num3 < 23){
+        
+                System.out.println("cold");
+                
+}
+}
+                
+    public static void loop (int num4) {
+        
+        
+ 
+ if (num4 == 0){
+    
+        for (int yes=0; yes<=10; yes++)
+
+
+
+
+        System.out.println(yes);
+    }
+}
+              
+    }
